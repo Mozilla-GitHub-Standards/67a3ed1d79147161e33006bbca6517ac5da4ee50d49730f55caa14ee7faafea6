@@ -14,3 +14,6 @@
 	path = src/django-multidb-router
 	url = git://github.com/jbalogh/django-multidb-router.git
 
+[submodule "src/django-mozilla-product-details"]
+	path = src/django-mozilla-product-details
+	url = git://github.com/fwenzel/django-mozilla-product-details
