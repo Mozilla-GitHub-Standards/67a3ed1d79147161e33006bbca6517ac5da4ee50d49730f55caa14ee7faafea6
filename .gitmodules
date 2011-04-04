@@ -4,16 +4,12 @@
 [submodule "src/django-axes"]
 	path = src/django-axes
 	url = git://github.com/codekoala/django-axes.git
-[submodule "src/django-localeurl"]
-	path = src/django-localeurl
-	url = git://github.com/kron4eg/django-localeurl.git
 [submodule "src/south"]
 	path = src/south
 	url = git://github.com/simplegeo/django-south.git
 [submodule "src/django-multidb-router"]
 	path = src/django-multidb-router
 	url = git://github.com/jbalogh/django-multidb-router.git
-
 [submodule "src/django-mozilla-product-details"]
 	path = src/django-mozilla-product-details
 	url = git://github.com/fwenzel/django-mozilla-product-details
