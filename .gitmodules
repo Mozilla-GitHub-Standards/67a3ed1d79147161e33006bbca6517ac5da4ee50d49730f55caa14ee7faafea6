@@ -10,3 +10,7 @@
 [submodule "src/south"]
 	path = src/south
 	url = git://github.com/simplegeo/django-south.git
+[submodule "app/vendor/src/django-multidb-router"]
+	path = app/vendor/src/django-multidb-router
+	url = git://github.com/jbalogh/django-multidb-router.git
+
