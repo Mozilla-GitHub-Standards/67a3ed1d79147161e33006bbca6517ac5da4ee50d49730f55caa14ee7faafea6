@@ -4,6 +4,9 @@
 [submodule "src/django-axes"]
 	path = src/django-axes
 	url = git://github.com/codekoala/django-axes.git
+[submodule "src/django-localeurl"]
+	path = src/django-localeurl
+	url = git://github.com/kron4eg/django-localeurl.git
 [submodule "src/south"]
 	path = src/south
 	url = git://github.com/simplegeo/django-south.git
