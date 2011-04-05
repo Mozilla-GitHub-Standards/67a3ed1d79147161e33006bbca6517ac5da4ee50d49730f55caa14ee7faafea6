@@ -1,6 +1,6 @@
 [submodule "src/django"]
 	path = src/django
-	url = git://github.com/django/django.git@a85fe4dddc4b133de289
+	url = git://github.com/django/django.git
 [submodule "src/django-axes"]
 	path = src/django-axes
 	url = git://github.com/codekoala/django-axes.git
