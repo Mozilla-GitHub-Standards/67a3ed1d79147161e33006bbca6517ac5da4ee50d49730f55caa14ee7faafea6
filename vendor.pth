@@ -3,6 +3,7 @@ src/django-axes
 src/django-localeurl
 src/django-multidb-router
 src/django-mozilla-product-details
+src/jingo
 src/south
 src/tower
 src/commonware
